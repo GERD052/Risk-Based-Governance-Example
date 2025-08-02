@@ -1,0 +1,5 @@
+Risk ID,Status,Kategorie,Wahrscheinlichkeit,Ausmaß,Strategie,Beschreibung
+R-001,Offen,Kosten,Hoch,Mittel,Mildern,Multi-Cloud Deployment ohne zentrale Budget- und Monitoring-Plattform führt zu unvorhersehbaren Cloud-Kosten über Delos, ESC und Google.
+R-002,Offen,Sicherheit,Mittel,Hoch,Mildern,Zugriff über föderierte Identitäten wird nicht konsequent mit MFA und RBAC abgesichert.
+R-003,Offen,Betrieb,Mittel,Mittel,Akzeptieren,Das Backup-System auf der Google Cloud ist von einer Downtime betroffen.
+R-004,Offen,Betrieb,Mittel,Hoch,Mildern,Unterschiedliche Logging-Standards führen zu fehlender Transparenz über sicherheitsrelevante Vorgänge.
